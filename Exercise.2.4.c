@@ -21,6 +21,7 @@ int main(void)
 	return 0;
 }
 
+/* This function is the alternate version of the orginal squeeze(s1, s2) function */
 void squeezeAlternate(char inputString[], char charactersToDelete[])
 {
 	int i, j;
